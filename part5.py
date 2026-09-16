@@ -4,6 +4,8 @@
 
 marks = [55,33,77,88,99,22]
 
+print(sum(marks))
+
 print(len(marks),marks,type(marks))
 
 # indexing
